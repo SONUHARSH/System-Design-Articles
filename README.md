@@ -5,15 +5,22 @@
 [> Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 
 [>CAP Throughput](https://www.bmc.com/blogs/cap-theorem/)
+
 [>Lode Balancing](https://aws.amazon.com/what-is/load-balancing/)
+
 [>ACID Transactions](https://redis.com/glossary/acid-transactions/)
+
 [>SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
+
 [>Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
+
 [>Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
+
 [>Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 
-[>Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
-[>Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+
+[>Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)/n
+[>Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)/n
 [>REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 [>HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
 [>Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
