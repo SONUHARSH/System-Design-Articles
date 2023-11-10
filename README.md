@@ -1,7 +1,5 @@
-[>Content Delivery Network (CDN)](https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/).
-
-[>Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01).
-
+[. Content Delivery Network (CDN)](https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/)
+[>Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 [>Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 [>CAP Throughput](https://www.bmc.com/blogs/cap-theorem/)
 [>Lode Balancing](https://aws.amazon.com/what-is/load-balancing/)
