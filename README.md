@@ -74,3 +74,43 @@ Easy
 [>Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 
 
+Medium
+Design Instagram
+Design Tinder
+Design WhatsApp
+Design Facebook
+Design Twitter
+Design Reddit
+Design Netflix
+Design Youtube
+Design Google Search
+Design E-commerce Store like Amazon
+Design Spotify
+Design TikTok
+Design Shopify
+Design Airbnb
+Design Autocomplete for Search Engines
+Design Rate Limiter
+Design Distributed Message Queue like Kafka
+Design Flight Booking System
+Design Online Code Editor
+Design Stock Exchange System
+Design an Analytics Platform (Metrics & Logging)
+Design Notification Service
+Design Payment System
+
+Hard
+
+Design Location Based Service like Yelp
+Design Uber
+Design Food Delivery App like Doordash
+Design Google Docs
+Design Google Maps
+Design Zoom
+Design File Sharing System like Dropbox
+Design Ticket Booking System like BookMyShow
+Design Distributed Web Crawler
+Design Code Deployment System
+Design Distributed Cloud Storage like S3
+Design Distributed Locking Service
+
