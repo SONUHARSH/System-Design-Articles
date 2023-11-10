@@ -75,42 +75,77 @@ Easy
 
 
 Medium
-Design Instagram
-Design Tinder
-Design WhatsApp
-Design Facebook
-Design Twitter
-Design Reddit
-Design Netflix
-Design Youtube
-Design Google Search
-Design E-commerce Store like Amazon
-Design Spotify
-Design TikTok
-Design Shopify
-Design Airbnb
-Design Autocomplete for Search Engines
-Design Rate Limiter
-Design Distributed Message Queue like Kafka
-Design Flight Booking System
-Design Online Code Editor
-Design Stock Exchange System
-Design an Analytics Platform (Metrics & Logging)
-Design Notification Service
-Design Payment System
+
+[>Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
+
+[>Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
+
+[>Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
+
+[>Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
+
+[>Design Twitter](https://www.youtube.com/watch?v=wYk0xPP_P_8)
+
+[>Design Reddit](https://www.youtube.com/watch?v=KYExYE_9nIY)
+
+[>Design Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
+
+[>Design Youtube](https://www.youtube.com/watch?v=jPKTo1iGQiE)
+
+[>Design Google Search](https://www.youtube.com/watch?v=CeGtqouT8eA)
+
+[>Design E-commerce Store like Amazon](https://www.youtube.com/watch?v=EpASu_1dUdE)
+
+[>Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc)
+
+[>Design TikTok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+
+[>Design Shopify](https://www.youtube.com/watch?v=lEL4F_0J3l8)
+
+[>Design Airbnb](https://www.youtube.com/watch?v=YyOXt2MEkv4)
+
+[>Design Autocomplete for Search Engines](https://www.youtube.com/watch?v=us0qySiUsGU)
+
+[>Design Rate Limiter](https://www.youtube.com/watch?v=mhUQe4BKZXs)
+
+[>Design Distributed Message Queue like Kafka](https://www.youtube.com/watch?v=iJLL-KPqBpM)
+
+[>Design Flight Booking System](https://www.youtube.com/watch?v=qsGcfVGvFSs)
+
+[>Design Online Code Editor](https://www.youtube.com/watch?v=07jkn4jUtso)
+
+[>Design Stock Exchange System](https://www.youtube.com/watch?v=dUMWMZmMsVE)
+
+[>Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
+
+[>Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
+
+[>Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 
 Hard
 
-Design Location Based Service like Yelp
-Design Uber
-Design Food Delivery App like Doordash
-Design Google Docs
-Design Google Maps
-Design Zoom
-Design File Sharing System like Dropbox
-Design Ticket Booking System like BookMyShow
-Design Distributed Web Crawler
-Design Code Deployment System
-Design Distributed Cloud Storage like S3
-Design Distributed Locking Service
+[>Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
+
+[>Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
+
+[>Design Food Delivery App like Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
+
+[>Design Google Docs](https://www.youtube.com/watch?v=2auwirNBvGg)
+
+[>Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
+
+[>Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
+
+[>Design File Sharing System like Dropbox](https://www.youtube.com/watch?v=U0xTu6E2CT8)
+
+[>Design Ticket Booking System like BookMyShow](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
+
+[>Design Distributed Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
+
+[>Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0)
+
+[>Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
+
+[>Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
+
 
